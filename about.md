@@ -8,8 +8,12 @@ I have been working in robotics since 2001 on many different types of vehicles.
 
 Currently working on large autonomous ground vehicles as shown by the [New York Times](http://www.nytimes.com/video/technology/100000003668539/navy-tests-autonomous-future.html).
 
+{% include youtubePlayer.html id="Hxu35XlqLXA" %}
+
 During graduate school I worked on the [Stingray](https://www.youtube.com/watch?v=pYVhpFxxofE)
 autonomous underwater vehicle.
+
+{% include youtubePlayer.html id="pYVhpFxxofE" %}
 
 Previously I worked on projects involving:
 
