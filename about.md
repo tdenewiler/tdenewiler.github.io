@@ -6,22 +6,22 @@ permalink: /about/
 
 I have been working in robotics since 2001 on many different types of vehicles.
 
-Currently working on large autonomous ground vehicles as shown by the [New York Times](http://www.nytimes.com/video/technology/100000003668539/navy-tests-autonomous-future.html).
+Currently working on large autonomous ground vehicles as shown by the
+[New York Times](http://www.nytimes.com/video/technology/100000003668539/navy-tests-autonomous-future.html).
+I am responsible for testing and merging new features and improvements into the baseline configuration.
 
 {% include youtubePlayer.html id="Hxu35XlqLXA" %}
 
 During graduate school I worked on the [Stingray](https://www.youtube.com/watch?v=pYVhpFxxofE)
-autonomous underwater vehicle.
+autonomous underwater vehicle. I was the software lead for several of the AUVSI underwater vehicle competitions.
+Most of the code from that project is now hosted at [stingray-auv](https://github.com/UCSD-E4E/stingray-auv).
 
 {% include youtubePlayer.html id="pYVhpFxxofE" %}
 
-Previously I worked on projects involving:
-
-  * [Security robots](http://www.public.navy.mil/spawar/Pacific/Robotics/Pages/MDARS.aspx)
-  * [Landing and refueling autonomous helicopters on autonomous ground vehicles](http://www.public.navy.mil/spawar/Pacific/Robotics/Pages/AUMS.aspx)
-
-I finished my Master's degree in 2011. My thesis was about state estimation and model-based waypoint following for
-small ground vehicles and can be found at [denewiler.us/thesis.pdf](http://denewiler.us/thesis.pdf).
+I finished my Master's degree in 2011. My thesis involved state estimation and model-based waypoint following for
+small ground vehicles.
+A complied version of my thesis is available at [denewiler.us/thesis.pdf](http://denewiler.us/thesis.pdf).
+Source files for my thesis are on GitHub.
 
 I wrote lecture notes in Latex (available on my GitHub page) for several courses:
 
@@ -32,6 +32,11 @@ I wrote lecture notes in Latex (available on my GitHub page) for several courses
 An [empty template](https://github.com/tdenewiler/coursenotes) for creating lecture notes is available as well.
 
 My CV can be found at [denewiler.us/cv](http://denewiler.us/cv).
+
+Previously I worked on projects involving:
+
+  * [Security robots](http://www.public.navy.mil/spawar/Pacific/Robotics/Pages/MDARS.aspx)
+  * [Landing and refueling autonomous helicopters on autonomous ground vehicles](http://www.public.navy.mil/spawar/Pacific/Robotics/Pages/AUMS.aspx)
 
 ## Publications
 
