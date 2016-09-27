@@ -20,7 +20,8 @@ I am responsible for testing and merging new features and improvements into the 
 
 During graduate school I worked on the [Stingray](https://www.youtube.com/watch?v=pYVhpFxxofE)
 autonomous underwater vehicle. I was the software lead for several of the AUVSI underwater vehicle competitions.
-Most of the code from that project is now hosted at [stingray-auv](https://github.com/UCSD-E4E/stingray-auv).
+Most of the code and wiki pages from that project are now hosted at
+[stingray-auv](https://github.com/UCSD-E4E/stingray-auv).
 
 {% include youtubePlayer.html id="pYVhpFxxofE" %}
 
