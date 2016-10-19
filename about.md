@@ -27,7 +27,7 @@ Most of the code and wiki pages from that project are now hosted at
 
 I finished my Master's degree in 2011. My thesis involved state estimation and model-based waypoint following for
 small ground vehicles.
-A complied version of my thesis is available at [denewiler.us/thesis.pdf](http://denewiler.us/thesis.pdf).
+A compiled version of my thesis is available at [denewiler.us/thesis.pdf](http://denewiler.us/thesis.pdf).
 Source files for my thesis are on GitHub.
 
 I wrote lecture notes in Latex (available on my GitHub page) for several courses:
