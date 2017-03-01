@@ -47,6 +47,8 @@ Previously I worked on projects involving:
 
 ## Publications
 
+  * Comparison of Visual Odometry Navigation Algorithms for Ground Robotic Applications
+    * Lee Lemay, Thomas Denewiler, Justin Gorgen, Bo Fitzsimmons and Demoz Gebre-Egziabher
   * [The Stingray AUV: A small and cost-effective solution for ecological monitoring](http://cseweb.ucsd.edu/~kastner/papers/oceans11-stingray.pdf)
     * Barngrover, C., Kastner, R., Denewiler, T., and G. Mills
   * [Joint Collaborative Technology Experiment](http://www.public.navy.mil/spawar/Pacific/Robotics/Documents/Publications/2009/SPIE_09_JCTE.pdf)
