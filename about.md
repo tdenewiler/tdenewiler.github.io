@@ -47,6 +47,10 @@ Previously I worked on projects involving:
 
 ## Publications
 
+  * [Best Practices for Autonomous Vehicle Configuration Management](https://denewiler.us/spie17_best_practices.pdf)
+    ([slides](https://denewiler.us/spie17_best_practices_slides.pdf))
+    * SPIE 2017 Unmanned Systems Technology
+    * Thomas Denewiler and Mark Tjersland
   * Comparison of Visual Odometry Navigation Algorithms for Ground Robotic Applications
     * Lee Lemay, Thomas Denewiler, Justin Gorgen, Bo Fitzsimmons and Demoz Gebre-Egziabher
   * [The Stingray AUV: A small and cost-effective solution for ecological monitoring](http://cseweb.ucsd.edu/~kastner/papers/oceans11-stingray.pdf)
