@@ -6,7 +6,7 @@ permalink: /about/
 
 I have been working in robotics since 2001 on many different types of vehicles.
 
-My CV can be found at [denewiler.us/cv](http://denewiler.us/cv).
+My CV can be found at [denewiler.us/cv](https://denewiler.us/cv).
 
 ## Current
 
@@ -27,14 +27,14 @@ Most of the code and wiki pages from that project are now hosted at
 
 I finished my Master's degree in 2011. My thesis involved state estimation and model-based waypoint following for
 small ground vehicles.
-A compiled version of my thesis is available at [denewiler.us/thesis.pdf](http://denewiler.us/thesis.pdf).
+A compiled version of my thesis is available at [denewiler.us/thesis.pdf](https://denewiler.us/thesis.pdf).
 Source files for my thesis are on GitHub.
 
 I wrote lecture notes in Latex (available on my GitHub page) for several courses:
 
-  * [Parameter Estimation](http://denewiler.us/mae283_lectures.pdf)
-  * [Optimal Control](http://denewiler.us/mae288a_lectures.pdf)
-  * [Nonlinear Systems](http://denewiler.us/mae281a_lectures.pdf)
+  * [Parameter Estimation](https://denewiler.us/mae283_lectures.pdf)
+  * [Optimal Control](https://denewiler.us/mae288a_lectures.pdf)
+  * [Nonlinear Systems](https://denewiler.us/mae281a_lectures.pdf)
 
 An [empty template](https://github.com/tdenewiler/coursenotes) for creating lecture notes is available as well.
 
