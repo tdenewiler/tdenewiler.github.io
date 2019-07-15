@@ -17,3 +17,6 @@ github_username: tdenewiler
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
